@@ -19,8 +19,8 @@ function Email() {
 
     this.init = ()=> {
         this.server = email.server.connect({
-            user: "churey.veer@gmail.com",
-            password: "k@thm@ndu",
+            user: "sobitkumar26@gmail.com",
+            password: "anshitaboni",
             host: "smtp.gmail.com",
             tls:true
         });
